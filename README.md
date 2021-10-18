@@ -1,6 +1,9 @@
 # Graphing Calculator
 
-This java program graphs the input function in the window.
+This java program graphs the input function in the window. I wrote the GUI components in order to graph the functions appropriately.
+
+
+![graphing-calc](./graphing-calc.png)
 
 ## Inputs
 Input functions using parentheses to separate all operations and subtract from 0 for negative values.
